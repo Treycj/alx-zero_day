@@ -1,4 +1,8 @@
 #!/bin/bash
+ update_script
+
+
 echo "ALX is so cool"
+master
 
 
